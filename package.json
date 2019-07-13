@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelnease/basecoat-ui.git"
+    "url": "git+https://github.com/michaelnease/react-launchpad.git"
   },
   "author": "Michael Nease (http://michaelnease.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michaelnease/basecoat-ui/issues"
+    "url": "https://github.com/michaelnease/react-launchpad/issues"
   },
-  "homepage": "https://github.com/michaelnease/basecoat-ui#readme",
+  "homepage": "https://github.com/michaelnease/react-launchpad#readme",
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "^16.8.6",

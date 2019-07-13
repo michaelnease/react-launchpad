@@ -36,5 +36,7 @@
 ehthumbs.db
 Thumbs.db
 
+# App files #
+######################
 node_modules
 dist
